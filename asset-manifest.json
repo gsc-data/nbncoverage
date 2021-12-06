@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nbncoverage/static/css/main.30b34d3e.chunk.css",
-    "main.js": "/nbncoverage/static/js/main.9b86ca0e.chunk.js",
-    "main.js.map": "/nbncoverage/static/js/main.9b86ca0e.chunk.js.map",
+    "main.js": "/nbncoverage/static/js/main.dcc5bb55.chunk.js",
+    "main.js.map": "/nbncoverage/static/js/main.dcc5bb55.chunk.js.map",
     "runtime-main.js": "/nbncoverage/static/js/runtime-main.bea9cc4c.js",
     "runtime-main.js.map": "/nbncoverage/static/js/runtime-main.bea9cc4c.js.map",
     "static/js/2.a39d5b39.chunk.js": "/nbncoverage/static/js/2.a39d5b39.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bea9cc4c.js",
     "static/js/2.a39d5b39.chunk.js",
     "static/css/main.30b34d3e.chunk.css",
-    "static/js/main.9b86ca0e.chunk.js"
+    "static/js/main.dcc5bb55.chunk.js"
   ]
 }
